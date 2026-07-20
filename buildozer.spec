@@ -14,3 +14,6 @@ android.allow_backup = True
 
 
 android.permissions = INTERNET, ACCESS_NETWORK_STATE
+android.api = 33
+android.minapi = 21
+android.ndk = 25b
