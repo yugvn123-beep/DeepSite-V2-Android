@@ -12,5 +12,5 @@ fullscreen = 1
 android.archs = armeabi-v7a, arm64-v8a
 android.allow_backup = True
 
-# الأذونات المطلوبة لتشغيل الـ WebView والإنترنت
+
 android.permissions = INTERNET, ACCESS_NETWORK_STATE
